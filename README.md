@@ -62,8 +62,6 @@ pip install requests beautifulsoup4 stem
 
 * Modify the scrape_dark_web() function based on the structure of the target website.
 
-* Default configuration extracts <h2> elements; update selectors as needed.
-
 
 ## Disclaimer
 This project is for educational purposes only. The author is not responsible for any misuse of this tool. Always comply with legal and ethical guidelines when accessing online content.
